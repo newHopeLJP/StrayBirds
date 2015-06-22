@@ -122,7 +122,7 @@ safe: false
 highlighter: pygments
 title: 新新希冀
 description: Look at the starts,look how they shine for you.
-theme: kunka
+theme: minimal
 disqusname: newHopeLJP
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
